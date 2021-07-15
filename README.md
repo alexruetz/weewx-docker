@@ -15,6 +15,7 @@ This container has the following WeeWX extensions installed:
 
 * [interceptor](https://github.com/matthewwall/weewx-interceptor)
 * [mqtt](https://github.com/weewx/weewx/wiki/mqtt)
+* [klimalogg](https://github.com/matthewwall/weewx-klimalogg)
 
 ## Usage ##
 
